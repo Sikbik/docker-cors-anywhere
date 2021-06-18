@@ -10,7 +10,7 @@ The docker image for [cors-anywhere](https://github.com/Rob--W/cors-anywhere).
 
 
 ```
-docker run --rm testcab/cors-anywhere
+docker run --rm littlestache/cors-anywhere:latest
 ```
 
 
